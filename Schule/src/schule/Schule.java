@@ -28,6 +28,7 @@ public class Schule {
         System.out.println("Datum? yyy-mm-dd");
         String datum = eingabe.next();
         LocalDate ld = LocalDate.now();
+        System.out.println("GitTest");
     }
     
 }
